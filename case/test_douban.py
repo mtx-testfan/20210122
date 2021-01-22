@@ -11,12 +11,12 @@ import pytest
 from appium import webdriver
 from time import sleep
 
-from data.ReadData import elements_data
+
 from page.base_driver import BaseDriver
 
 # 1.先抽离启动项 和 driver
 # 2.pytest改造
-from page.homePage import homepage
+
 from page.loginDouban import LoginPage
 
 '''
