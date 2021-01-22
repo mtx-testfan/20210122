@@ -7,7 +7,8 @@ import pytest
 
 def start_appium_server():
     print(os.system('appium'))
-
+    env_dist = os.environ
+    print('env_dist的值', env_dist)
 
 def main():
 
