@@ -1,0 +1,34 @@
+2021-01-22 13:21:48,252 INFO [root] [baseOperate.py (__init__:22] - Init a mobileDriver.
+2021-01-22 13:26:11,432 INFO [root] [baseOperate.py (__init__:22] - Init a mobileDriver.
+2021-01-22 13:32:47,900 INFO [root] [baseOperate.py (__init__:22] - Init a mobileDriver.
+2021-01-22 13:37:58,275 INFO [root] [baseOperate.py (__init__:22] - Init a mobileDriver.
+2021-01-22 13:38:04,642 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 帐号密码登录 ' successful by xpath via value: //*[@text='帐号密码登录'] 
+2021-01-22 13:38:04,657 INFO [root] [baseOperate.py (click:120] - click element css
+2021-01-22 13:38:14,714 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 请输入手机号/邮箱 ' successful by xpath via value: //*[@text='请输入手机号/邮箱'] 
+2021-01-22 13:38:15,755 INFO [root] [baseOperate.py (type:249] -  Input text 17610873228 to xpath=>//*[@text='请输入手机号/邮箱'] element.
+2021-01-22 13:38:18,798 INFO [root] [baseOperate.py (get_element:45] - Had find the element '  ' successful by id via value: com.douban.frodo:id/input_password 
+2021-01-22 13:38:19,427 INFO [root] [baseOperate.py (type:249] -  Input text yaoyao123456 to id=>com.douban.frodo:id/input_password element.
+2021-01-22 13:38:22,454 INFO [root] [baseOperate.py (get_element:45] - Had find the element ' 登录 ' successful by id via value: com.douban.frodo:id/sign_in_douban 
+2021-01-22 13:38:22,466 INFO [root] [baseOperate.py (click:120] - click element css
+2021-01-22 13:41:37,323 INFO [root] [baseOperate.py (__init__:22] - Init a mobileDriver.
+2021-01-22 13:41:44,006 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 帐号密码登录 ' successful by xpath via value: //*[@text='帐号密码登录'] 
+2021-01-22 13:41:44,019 INFO [root] [baseOperate.py (click:120] - click element css
+2021-01-22 13:41:54,082 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 请输入手机号/邮箱 ' successful by xpath via value: //*[@text='请输入手机号/邮箱'] 
+2021-01-22 13:41:55,126 INFO [root] [baseOperate.py (type:249] -  Input text 17610873228 to xpath=>//*[@text='请输入手机号/邮箱'] element.
+2021-01-22 13:41:58,153 INFO [root] [baseOperate.py (get_element:45] - Had find the element '  ' successful by id via value: com.douban.frodo:id/input_password 
+2021-01-22 13:41:58,776 INFO [root] [baseOperate.py (type:249] -  Input text yaoyao123456 to id=>com.douban.frodo:id/input_password element.
+2021-01-22 13:42:01,801 INFO [root] [baseOperate.py (get_element:45] - Had find the element ' 登录 ' successful by id via value: com.douban.frodo:id/sign_in_douban 
+2021-01-22 13:42:01,814 INFO [root] [baseOperate.py (click:120] - click element css
+2021-01-22 13:42:45,982 INFO [root] [baseOperate.py (__init__:22] - Init a mobileDriver.
+2021-01-22 13:47:30,607 INFO [root] [baseOperate.py (__init__:22] - Init a mobileDriver.
+2021-01-22 13:47:37,383 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 帐号密码登录 ' successful by xpath via value: //*[@text='帐号密码登录'] 
+2021-01-22 13:47:37,420 INFO [root] [baseOperate.py (click:120] - click element css
+2021-01-22 13:47:47,476 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 请输入手机号/邮箱 ' successful by xpath via value: //*[@text='请输入手机号/邮箱'] 
+2021-01-22 13:47:48,520 INFO [root] [baseOperate.py (type:249] -  Input text 17610873228 to xpath=>//*[@text='请输入手机号/邮箱'] element.
+2021-01-22 13:47:51,545 INFO [root] [baseOperate.py (get_element:45] - Had find the element '  ' successful by id via value: com.douban.frodo:id/input_password 
+2021-01-22 13:47:52,163 INFO [root] [baseOperate.py (type:249] -  Input text yaoyao123456 to id=>com.douban.frodo:id/input_password element.
+2021-01-22 13:47:55,188 INFO [root] [baseOperate.py (get_element:45] - Had find the element ' 登录 ' successful by id via value: com.douban.frodo:id/sign_in_douban 
+2021-01-22 13:47:55,200 INFO [root] [baseOperate.py (click:120] - click element css
+2021-01-22 13:48:08,409 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 我的 ' successful by xpath via value: //android.widget.TextView[@text='我的'] 
+2021-01-22 13:48:08,422 INFO [root] [baseOperate.py (click:120] - click element css
+2021-01-22 13:48:14,423 INFO [root] [baseOperate.py (page_source:274] - get page_source

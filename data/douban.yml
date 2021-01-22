@@ -1,0 +1,6 @@
+name: '18911473709'
+pwd: 'bull1234'
+input_user_name: 'com.douban.frodo:id/input_user_name'
+input_password: 'com.douban.frodo:id/input_password'
+sign_in_douban: 'com.douban.frodo:id/sign_in_douban'
+entire_password_login: 'entire_password_login_text'
