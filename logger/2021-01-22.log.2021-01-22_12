@@ -1,4 +1,0 @@
-2021-01-22 12:00:33,393 INFO [root] [logger.py (<module>:44] - 信息
-2021-01-22 12:00:33,394 WARNING [root] [logger.py (<module>:45] - 警告
-2021-01-22 12:00:33,394 ERROR [root] [logger.py (<module>:46] - 错误
-2021-01-22 12:00:33,394 CRITICAL [root] [logger.py (<module>:47] - 致命的
